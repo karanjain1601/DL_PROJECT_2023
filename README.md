@@ -37,9 +37,9 @@ In this study, a deep residual network architecture was given the Shake-Drop reg
 
 ## REFERENCES
 
-Research paper PDF: https://arxiv.org/abs/1802.02375
-Official Github repository: https://github.com/owruby/shake-drop_pytorch
-Article: https://medium.com/swlh/paper-shakedrop-shakedrop-regularization-for-deep-residual-learning-image-classification-d2b83d0ae3de
+- Research paper PDF: https://arxiv.org/abs/1802.02375
+- Official Github repository: https://github.com/owruby/shake-drop_pytorch
+- Article: https://medium.com/swlh/paper-shakedrop-shakedrop-regularization-for-deep-residual-learning-image-classification-d2b83d0ae3de
 
 
 
